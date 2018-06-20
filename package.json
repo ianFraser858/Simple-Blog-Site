@@ -1,0 +1,25 @@
+{
+  "name": "restful_blog",
+  "version": "1.0.0",
+  "description": "Simple Blog Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianFraser858/Simple-Blog-Site.git"
+  },
+  "author": "Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianFraser858/Simple-Blog-Site/issues"
+  },
+  "homepage": "https://github.com/ianFraser858/Simple-Blog-Site#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  }
+}
